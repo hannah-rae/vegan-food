@@ -4,13 +4,13 @@ title: Chocolate Cake with Spiced Buttercream
 categories:
   - Desserts
   - Cakes
-featured_image: http://hannah-rae.github.io/vegan-food/images/fall_chocolate_cake.jpg
+featured_image: /images/fall_chocolate_cake.jpg
 recipe:
   servings: approx. 25 slices with 1-inch arc length
   prep: 45 minutes
   cook: 35 minutes
   ingredients_markdown: |-
-
+  cake:
     * 2 c (400 g) white sugar
     * 1 3/4 c (210 g) all-purpose flour
     * 3/4 c (89 g) cocoa powder
@@ -22,7 +22,7 @@ recipe:
     * 1/2 c vegetable oil
     * 2 tsp vanilla extract
     * 1 c boiling water
-
+  icing:
     * 4 sticks plant-based butter at room temperature (e.g., Country Crock plant butter)
     * 6.5 c confectioners sugar
     * 1 tbsp cinnamon
