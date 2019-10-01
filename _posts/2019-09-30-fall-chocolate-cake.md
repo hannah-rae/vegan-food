@@ -4,7 +4,7 @@ title: Chocolate Cake with Spiced Buttercream
 categories:
   - Desserts
   - Cakes
-featured_image: /images/fall_chocolate_cake.jpg
+featured_image: https://hannah-rae.github.io/vegan-food/images/fall_chocolate_cake.jpg
 recipe:
   servings: approx. 25 slices with 1-inch arc length
   prep: 45 minutes
