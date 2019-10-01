@@ -1,6 +1,6 @@
 ---
-date: 2017-01-05
-title: Gingernut Cookies
+date: 2019-09-28
+title: Oatmeal, Pecan, and Chocolate Chip Cookies
 categories:
   - Cookies
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
